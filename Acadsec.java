@@ -1,5 +1,7 @@
-package acadglidJavaprg;
 
+
+
+/*program to print the values of given expression in new line */
 public class Acadsec {
 
 	public static void main(String[] args) {

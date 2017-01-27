@@ -1,6 +1,6 @@
 import java.util.*;
-
-
+/*program to swap two variables without using third variable
+*/
 public class swap {
 
 	public static void main(String[] args) {
